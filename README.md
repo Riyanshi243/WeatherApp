@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # WeatherApp
 Weather App by Riyanshi Verma
->>>>>>> 31b38e9c2953e17d6f912533eeeff325e23e0c81
+

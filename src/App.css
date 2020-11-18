@@ -1,0 +1,101 @@
+.App{
+  background-size: cover;
+  height:250vh;
+  width:218vh;
+}
+
+.Header{
+  background-color:rgb(36, 69, 139);
+  height: 100px;
+  width: 214vh;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 25px;
+  font-style: italic;
+  color: rgb(255, 255, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  opacity: 0.8;
+}
+.myname{
+  font-size: 15px;
+  float: right;
+  padding-right: 25px;
+  padding-top: 80px;
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Loader {
+  margin-left: 48%;
+}
+
+.Card{
+  float: left;
+  height: 580px;
+  width: 300px;
+  background-color:rgb(36, 69, 139);
+  margin: 60px;
+  border-radius: 30px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  opacity: 0.8;
+  
+}
+.Card2{
+  font-weight: bold;
+  float: centre;
+  height: 330px;
+  width: 400px;
+  background-color:rgb(36, 69, 139);
+  margin: 50px;
+  border-radius: 30px;
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  padding-top: 20px;
+  padding-right: 20px;
+  opacity: 0.8;
+  
+ 
+  margin-left: 450px;
+}
+.CityName{
+  float: centre;
+  font-size: 50px;
+  color: azure;
+  padding-top: 20px;
+  padding-left: 400px;
+}
+h2{
+  font-size: 20px;
+  padding-left: 50px;
+}
+
+h3{
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.TempText{
+  font-size: 20px;
+  text-align: center;
+}
+
+.SearchContainer{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 500px;
+
+}
+
+.CityName{
+  margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 20px;
+ /* font-size: 10px;*/
+}
+
+/*how to apply picture in background*/
+/*icon of condition*/
+/*hourly updates new page*/
+/*Gif*/
